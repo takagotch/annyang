@@ -2,7 +2,9 @@
 ---
 https://github.com/TalAter/annyang
 
-```
+https://www.talater.com/annyang/
+
+```html
 <script src="//cdn.cloudflare.com/ajax/libs/annyang/2.6.1/annyang.min.js"></script>
 <script>
 if(annyang){
@@ -15,7 +17,7 @@ if(annyang){
 </scirpt>
 ```
 
-```
+```html
 <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.1/annyang.min.js"></script>
 <script></script>
 <script>
